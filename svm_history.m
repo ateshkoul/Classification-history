@@ -4,6 +4,7 @@ function [results,Data,q] = svm_history(Data,intervalPts,interval,filename,metho
 % Recursively goes in the data and replaces the data with a value using
 % history.
 
+
 % Inputs:
 %       Data                    -Raw Data with different factors in column 2
 %
@@ -33,6 +34,12 @@ function [results,Data,q] = svm_history(Data,intervalPts,interval,filename,metho
 % Requirements:
 % kineticsvm.m
 % libsvm installed and in matlab path.
+
+
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
 
 
 if ~exist('intervalPts','var')

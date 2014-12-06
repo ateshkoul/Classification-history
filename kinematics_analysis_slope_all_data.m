@@ -1,5 +1,10 @@
 % Script for svm with history all data of slopes
 
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
 % select the y labels - 2nd column in the origional file
 
 y = Data(:,2);

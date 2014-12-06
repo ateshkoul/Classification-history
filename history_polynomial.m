@@ -1,3 +1,8 @@
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
 a = Data;
 %ft = fittype( 'poly2' );
 for k = 1:12

@@ -1,3 +1,8 @@
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
 
 [j,k]=(max(Data(:,8:17),[],2));
 k = k+8;
